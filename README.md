@@ -6,12 +6,14 @@ A polished, AI-powered collaborative storytelling app built with React + TypeScr
 
 ![Setup Screen](screenshot.png)
 
-![Story View](screenshot 2.png)
+![Story View](screenshot-2.png)
 
-(screenshot 3.png)
-(screenshot 4.png)
-(screenshot 5.png)
----
+![Story View 2](screenshot-3.png)
+
+![Characters](screenshot-4.png)
+
+![Story View 3](screenshot-5.png)
+```
 
 ## Setup Instructions
 
