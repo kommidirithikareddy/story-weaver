@@ -2,8 +2,17 @@
 
 A polished, AI-powered collaborative storytelling app built with React + TypeScript and the Groq API.
 
-![Story Weaver Screenshot](screenshot.png)
+## Screenshots
 
+![Setup Screen](screenshot.png)
+
+![Story View](screenshot 2.png)
+
+![Options](screenshot 3.png)
+
+![Characters] (screenshot 4.png)
+
+![Error ](screenshot 5.png)
 ---
 
 ## Setup Instructions
