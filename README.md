@@ -8,11 +8,9 @@ A polished, AI-powered collaborative storytelling app built with React + TypeScr
 
 ![Story View](screenshot 2.png)
 
-![Options](screenshot 3.png)
-
-![Characters] (screenshot 4.png)
-
-![Error ](screenshot 5.png)
+(screenshot 3.png)
+(screenshot 4.png)
+(screenshot 5.png)
 ---
 
 ## Setup Instructions
